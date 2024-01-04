@@ -43,7 +43,6 @@ public class ArrayListBasics {
         System.out.println(lis);
         System.out.println(timeTankentoInsert);
         System.out.println(lis.set(0, 99));
-        lis.
 
         // to iterate a list
 //        for (Integer i :arr){
